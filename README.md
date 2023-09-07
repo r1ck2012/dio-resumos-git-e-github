@@ -3,7 +3,8 @@
 
 Repository to store Git commands and GitHub configurations -- [DIO](https://www.dio.me/users/contatopaulomail) LESSONS
 
-Still writing, something down below may be incomplete 
+Still writing, something down below may be incomplete
+Source[Elidiana README](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/README.md) 
 
 ## Terminal commands
 
